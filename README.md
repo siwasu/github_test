@@ -3,4 +3,8 @@ GitHUB の練習
 
 hogehoge
 
+いやっほー
+
 hogehoge追加
+
+コンフリクト祭りじゃ〜
